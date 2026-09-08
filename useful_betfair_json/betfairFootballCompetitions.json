@@ -1,0 +1,706 @@
+[
+    {
+        "competition": {
+            "id": "12801",
+            "name": "Spanish Copa del Rey"
+        },
+        "marketCount": 42,
+        "competitionRegion": "ESP"
+    },
+    {
+        "competition": {
+            "id": "12164283",
+            "name": "Brazilian Carioca Matches"
+        },
+        "marketCount": 21,
+        "competitionRegion": "BRA"
+    },
+    {
+        "competition": {
+            "id": "857992",
+            "name": "Chilean Primera B"
+        },
+        "marketCount": 42,
+        "competitionRegion": "CHL"
+    },
+    {
+        "competition": {
+            "id": "133",
+            "name": "Swiss Super League"
+        },
+        "marketCount": 126,
+        "competitionRegion": "CHE"
+    },
+    {
+        "competition": {
+            "id": "252549",
+            "name": "Welsh Premiership"
+        },
+        "marketCount": 42,
+        "competitionRegion": "GBR"
+    },
+    {
+        "competition": {
+            "id": "12204604",
+            "name": "CONMEBOL Copa Sudamericana"
+        },
+        "marketCount": 336,
+        "competitionRegion": "International"
+    },
+    {
+        "competition": {
+            "id": "10533800",
+            "name": "Turkish Cup"
+        },
+        "marketCount": 88,
+        "competitionRegion": "TUR"
+    },
+    {
+        "competition": {
+            "id": "9",
+            "name": "Austrian Erste Liga"
+        },
+        "marketCount": 21,
+        "competitionRegion": "AUT"
+    },
+    {
+        "competition": {
+            "id": "12200369",
+            "name": "Friendlies Women's International"
+        },
+        "marketCount": 21,
+        "competitionRegion": "International"
+    },
+    {
+        "competition": {
+            "id": "403085",
+            "name": "Polish I Liga"
+        },
+        "marketCount": 21,
+        "competitionRegion": "POL"
+    },
+    {
+        "competition": {
+            "id": "11",
+            "name": "Dutch Eerste Divisie"
+        },
+        "marketCount": 42,
+        "competitionRegion": "NLD"
+    },
+    {
+        "competition": {
+            "id": "12117172",
+            "name": "Australian A-League Men"
+        },
+        "marketCount": 105,
+        "competitionRegion": "AUS"
+    },
+    {
+        "competition": {
+            "id": "6251219",
+            "name": "Indian Super League"
+        },
+        "marketCount": 21,
+        "competitionRegion": "IND"
+    },
+    {
+        "competition": {
+            "id": "141",
+            "name": "US MLS"
+        },
+        "marketCount": 273,
+        "competitionRegion": "USA"
+    },
+    {
+        "competition": {
+            "id": "15",
+            "name": "Bulgarian A League"
+        },
+        "marketCount": 189,
+        "competitionRegion": "BGR"
+    },
+    {
+        "competition": {
+            "id": "2079376",
+            "name": "Costa Rican Primera Division"
+        },
+        "marketCount": 63,
+        "competitionRegion": "CRI"
+    },
+    {
+        "competition": {
+            "id": "7616742",
+            "name": "Kenyan Premier League"
+        },
+        "marketCount": 13,
+        "competitionRegion": "KEN"
+    },
+    {
+        "competition": {
+            "id": "12221864",
+            "name": "Romanian Cup"
+        },
+        "marketCount": 66,
+        "competitionRegion": "ROU"
+    },
+    {
+        "competition": {
+            "id": "12204204",
+            "name": "Czech 1 Liga"
+        },
+        "marketCount": 63,
+        "competitionRegion": "CZE"
+    },
+    {
+        "competition": {
+            "id": "9404054",
+            "name": "Dutch Eredivisie"
+        },
+        "marketCount": 189,
+        "competitionRegion": "NLD"
+    },
+    {
+        "competition": {
+            "id": "6566654",
+            "name": "Guatemalan Liga Nacional"
+        },
+        "marketCount": 84,
+        "competitionRegion": "GTM"
+    },
+    {
+        "competition": {
+            "id": "839575",
+            "name": "Paraguayan Primera Division"
+        },
+        "marketCount": 42,
+        "competitionRegion": "PRY"
+    },
+    {
+        "competition": {
+            "id": "3796898",
+            "name": "Jamaican Premier League"
+        },
+        "marketCount": 21,
+        "competitionRegion": "JAM"
+    },
+    {
+        "competition": {
+            "id": "300965",
+            "name": "Ukrainian Cup"
+        },
+        "marketCount": 17,
+        "competitionRegion": "UKR"
+    },
+    {
+        "competition": {
+            "id": "11086347",
+            "name": "English National League"
+        },
+        "marketCount": 189,
+        "competitionRegion": "GBR"
+    },
+    {
+        "competition": {
+            "id": "12209560",
+            "name": "French Cup"
+        },
+        "marketCount": 84,
+        "competitionRegion": "FRA"
+    },
+    {
+        "competition": {
+            "id": "12204313",
+            "name": "Spanish Segunda Division"
+        },
+        "marketCount": 168,
+        "competitionRegion": "ESP"
+    },
+    {
+        "competition": {
+            "id": "35",
+            "name": "English Sky Bet League 1"
+        },
+        "marketCount": 294,
+        "competitionRegion": "GBR"
+    },
+    {
+        "competition": {
+            "id": "12375833",
+            "name": "UEFA Europa Conference League"
+        },
+        "marketCount": 1,
+        "competitionRegion": "International"
+    },
+    {
+        "competition": {
+            "id": "12202271",
+            "name": "Honduras Liga Nacional"
+        },
+        "marketCount": 21,
+        "competitionRegion": "HND"
+    },
+    {
+        "competition": {
+            "id": "37",
+            "name": "English Sky Bet League 2"
+        },
+        "marketCount": 336,
+        "competitionRegion": "GBR"
+    },
+    {
+        "competition": {
+            "id": "194215",
+            "name": "Turkish Super League"
+        },
+        "marketCount": 105,
+        "competitionRegion": "TUR"
+    },
+    {
+        "competition": {
+            "id": "12214429",
+            "name": "Italian Coppa Italia"
+        },
+        "marketCount": 42,
+        "competitionRegion": "ITA"
+    },
+    {
+        "competition": {
+            "id": "4905",
+            "name": "Romanian Liga I"
+        },
+        "marketCount": 168,
+        "competitionRegion": "ROU"
+    },
+    {
+        "competition": {
+            "id": "9513",
+            "name": "Portuguese Segunda Liga"
+        },
+        "marketCount": 21,
+        "competitionRegion": "PRT"
+    },
+    {
+        "competition": {
+            "id": "803237",
+            "name": "Argentinian Primera Nacional"
+        },
+        "marketCount": 14,
+        "competitionRegion": "ARG"
+    },
+    {
+        "competition": {
+            "id": "844197",
+            "name": "Colombian Primera A"
+        },
+        "marketCount": 105,
+        "competitionRegion": "COL"
+    },
+    {
+        "competition": {
+            "id": "3972877",
+            "name": "Panamanian Premier League"
+        },
+        "marketCount": 21,
+        "competitionRegion": "PAN"
+    },
+    {
+        "competition": {
+            "id": "843454",
+            "name": "Uruguayan Primera Division"
+        },
+        "marketCount": 21,
+        "competitionRegion": "URY"
+    },
+    {
+        "competition": {
+            "id": "39218",
+            "name": "AFC Champions League"
+        },
+        "marketCount": 105,
+        "competitionRegion": "International"
+    },
+    {
+        "competition": {
+            "id": "18099",
+            "name": "Swedish Cup"
+        },
+        "marketCount": 42,
+        "competitionRegion": "SWE"
+    },
+    {
+        "competition": {
+            "id": "12199689",
+            "name": "Italian Serie B"
+        },
+        "marketCount": 210,
+        "competitionRegion": "ITA"
+    },
+    {
+        "competition": {
+            "id": "801976",
+            "name": "Egyptian Premier"
+        },
+        "marketCount": 42,
+        "competitionRegion": "EGY"
+    },
+    {
+        "competition": {
+            "id": "2888729",
+            "name": "Armenian Premier League"
+        },
+        "marketCount": 21,
+        "competitionRegion": "ARM"
+    },
+    {
+        "competition": {
+            "id": "55",
+            "name": "French Ligue 1"
+        },
+        "marketCount": 189,
+        "competitionRegion": "FRA"
+    },
+    {
+        "competition": {
+            "id": "57",
+            "name": "French Ligue 2"
+        },
+        "marketCount": 21,
+        "competitionRegion": "FRA"
+    },
+    {
+        "competition": {
+            "id": "19513",
+            "name": "Dutch Cup"
+        },
+        "marketCount": 21,
+        "competitionRegion": "NLD"
+    },
+    {
+        "competition": {
+            "id": "67387",
+            "name": "Argentinian Primera Division"
+        },
+        "marketCount": 168,
+        "competitionRegion": "ARG"
+    },
+    {
+        "competition": {
+            "id": "10932509",
+            "name": "English Premier League"
+        },
+        "marketCount": 211,
+        "competitionRegion": "GBR"
+    },
+    {
+        "competition": {
+            "id": "59",
+            "name": "German Bundesliga"
+        },
+        "marketCount": 210,
+        "competitionRegion": "DEU"
+    },
+    {
+        "competition": {
+            "id": "11591693",
+            "name": "German 3 Liga"
+        },
+        "marketCount": 210,
+        "competitionRegion": "DEU"
+    },
+    {
+        "competition": {
+            "id": "61",
+            "name": "German Bundesliga 2"
+        },
+        "marketCount": 189,
+        "competitionRegion": "DEU"
+    },
+    {
+        "competition": {
+            "id": "97855",
+            "name": "Slovakian Cup"
+        },
+        "marketCount": 44,
+        "competitionRegion": "SVK"
+    },
+    {
+        "competition": {
+            "id": "175680",
+            "name": "Turkish 1 Lig"
+        },
+        "marketCount": 21,
+        "competitionRegion": "TUR"
+    },
+    {
+        "competition": {
+            "id": "67",
+            "name": "Greek Super League"
+        },
+        "marketCount": 42,
+        "competitionRegion": "GRC"
+    },
+    {
+        "competition": {
+            "id": "12013300",
+            "name": "Slovakian Super League"
+        },
+        "marketCount": 126,
+        "competitionRegion": "SVK"
+    },
+    {
+        "competition": {
+            "id": "12395641",
+            "name": "South Korean K2 League"
+        },
+        "marketCount": 63,
+        "competitionRegion": "KOR"
+    },
+    {
+        "competition": {
+            "id": "12209405",
+            "name": "Saudi Professional League"
+        },
+        "marketCount": 21,
+        "competitionRegion": "SAU"
+    },
+    {
+        "competition": {
+            "id": "856134",
+            "name": "Colombian Primera B"
+        },
+        "marketCount": 63,
+        "competitionRegion": "COL"
+    },
+    {
+        "competition": {
+            "id": "10479956",
+            "name": "Austrian Bundesliga"
+        },
+        "marketCount": 126,
+        "competitionRegion": "AUT"
+    },
+    {
+        "competition": {
+            "id": "12206708",
+            "name": "Scottish FA Cup"
+        },
+        "marketCount": 63,
+        "competitionRegion": "GBR"
+    },
+    {
+        "competition": {
+            "id": "81",
+            "name": "Italian Serie A"
+        },
+        "marketCount": 232,
+        "competitionRegion": "ITA"
+    },
+    {
+        "competition": {
+            "id": "2005",
+            "name": "UEFA Europa League"
+        },
+        "marketCount": 1,
+        "competitionRegion": "International"
+    },
+    {
+        "competition": {
+            "id": "12201574",
+            "name": "Italian Campionato Primavera"
+        },
+        "marketCount": 21,
+        "competitionRegion": "ITA"
+    },
+    {
+        "competition": {
+            "id": "30558",
+            "name": "English FA Cup"
+        },
+        "marketCount": 154,
+        "competitionRegion": "GBR"
+    },
+    {
+        "competition": {
+            "id": "97",
+            "name": "Polish Ekstraklasa"
+        },
+        "marketCount": 21,
+        "competitionRegion": "POL"
+    },
+    {
+        "competition": {
+            "id": "99",
+            "name": "Portuguese Primeira Liga"
+        },
+        "marketCount": 126,
+        "competitionRegion": "PRT"
+    },
+    {
+        "competition": {
+            "id": "12199513",
+            "name": "Italian Serie C"
+        },
+        "marketCount": 210,
+        "competitionRegion": "ITA"
+    },
+    {
+        "competition": {
+            "id": "228",
+            "name": "UEFA Champions League"
+        },
+        "marketCount": 1,
+        "competitionRegion": "International"
+    },
+    {
+        "competition": {
+            "id": "803690",
+            "name": "Ecuadorian Serie A"
+        },
+        "marketCount": 21,
+        "competitionRegion": "ECU"
+    },
+    {
+        "competition": {
+            "id": "12218844",
+            "name": "Portuguese Cup"
+        },
+        "marketCount": 22,
+        "competitionRegion": "PRT"
+    },
+    {
+        "competition": {
+            "id": "103",
+            "name": "Serbian Super League"
+        },
+        "marketCount": 21,
+        "competitionRegion": "SRB"
+    },
+    {
+        "competition": {
+            "id": "1436284",
+            "name": "Azerbaijan Cup"
+        },
+        "marketCount": 21,
+        "competitionRegion": "AZE"
+    },
+    {
+        "competition": {
+            "id": "105",
+            "name": "Scottish Premiership"
+        },
+        "marketCount": 42,
+        "competitionRegion": "GBR"
+    },
+    {
+        "competition": {
+            "id": "107",
+            "name": "Scottish Championship"
+        },
+        "marketCount": 42,
+        "competitionRegion": "GBR"
+    },
+    {
+        "competition": {
+            "id": "12469077",
+            "name": "FIFA World Cup"
+        },
+        "marketCount": 1,
+        "competitionRegion": "International"
+    },
+    {
+        "competition": {
+            "id": "109",
+            "name": "Scottish League One"
+        },
+        "marketCount": 42,
+        "competitionRegion": "GBR"
+    },
+    {
+        "competition": {
+            "id": "12147796",
+            "name": "CONMEBOL Copa Libertadores"
+        },
+        "marketCount": 21,
+        "competitionRegion": "International"
+    },
+    {
+        "competition": {
+            "id": "7129730",
+            "name": "English Sky Bet Championship"
+        },
+        "marketCount": 252,
+        "competitionRegion": "GBR"
+    },
+    {
+        "competition": {
+            "id": "111",
+            "name": "Scottish League Two"
+        },
+        "marketCount": 21,
+        "competitionRegion": "GBR"
+    },
+    {
+        "competition": {
+            "id": "5627174",
+            "name": "Mexican Liga MX"
+        },
+        "marketCount": 210,
+        "competitionRegion": "MEX"
+    },
+    {
+        "competition": {
+            "id": "117",
+            "name": "Spanish La Liga"
+        },
+        "marketCount": 232,
+        "competitionRegion": "ESP"
+    },
+    {
+        "competition": {
+            "id": "10854877",
+            "name": "Polish Cup"
+        },
+        "marketCount": 34,
+        "competitionRegion": "POL"
+    },
+    {
+        "competition": {
+            "id": "9882094",
+            "name": "EFL Trophy"
+        },
+        "marketCount": 42,
+        "competitionRegion": "GBR"
+    },
+    {
+        "competition": {
+            "id": "12203971",
+            "name": "Irish Premier Division"
+        },
+        "marketCount": 63,
+        "competitionRegion": "IRL"
+    },
+    {
+        "competition": {
+            "id": "89979",
+            "name": "Belgian Pro League"
+        },
+        "marketCount": 168,
+        "competitionRegion": "BEL"
+    },
+    {
+        "competition": {
+            "id": "12227137",
+            "name": "Czech Cup"
+        },
+        "marketCount": 63,
+        "competitionRegion": "CZE"
+    },
+    {
+        "competition": {
+            "id": "12416961",
+            "name": "CONCACAF U20 Cup Qualifiers"
+        },
+        "marketCount": 14,
+        "competitionRegion": "International"
+    }
+]

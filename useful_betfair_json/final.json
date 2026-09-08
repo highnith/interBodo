@@ -1,0 +1,2549 @@
+[
+    [
+        {
+            "eventId": "35320058",
+            "eventName": "Padova v Spezia",
+            "openDate": "2026-03-03T18:00:00.000Z",
+            "competitionId": "12199689",
+            "competitionName": "Italian Serie B",
+            "marketId": "1.254620656",
+            "marketName": "First Half Goals 2.5",
+            "marketType": "FIRST_HALF_GOALS_25",
+            "runners": [
+                {
+                    "selectionId": 47973,
+                    "runnerName": "Over 2.5 Goals",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 9.6,
+                                "size": 6.5
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 14.5,
+                                "size": 57.53
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35320058",
+            "eventName": "Padova v Spezia",
+            "openDate": "2026-03-03T18:00:00.000Z",
+            "competitionId": "12199689",
+            "competitionName": "Italian Serie B",
+            "marketId": "1.254620667",
+            "marketName": "Over/Under 4.5 Goals",
+            "marketType": "OVER_UNDER_45",
+            "runners": [
+                {
+                    "selectionId": 1222346,
+                    "runnerName": "Over 4.5 Goals",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 11.0,
+                                "size": 39.52
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 13.5,
+                                "size": 70.27
+                            },
+                            {
+                                "price": 14.5,
+                                "size": 41.5
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35320058",
+            "eventName": "Padova v Spezia",
+            "openDate": "2026-03-03T18:00:00.000Z",
+            "competitionId": "12199689",
+            "competitionName": "Italian Serie B",
+            "marketId": "1.254620668",
+            "marketName": "Half Time Score",
+            "marketType": "HALF_TIME_SCORE",
+            "runners": [
+                {
+                    "selectionId": 9,
+                    "runnerName": "0 - 2",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 19.0,
+                                "size": 12.0
+                            },
+                            {
+                                "price": 5.9,
+                                "size": 31.65
+                            },
+                            {
+                                "price": 4.8,
+                                "size": 33.0
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 27.0,
+                                "size": 30.5
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "eventId": "35323674",
+            "eventName": "Palermo v Mantova",
+            "openDate": "2026-03-04T19:00:00.000Z",
+            "competitionId": "12199689",
+            "competitionName": "Italian Serie B",
+            "marketId": "1.254679477",
+            "marketName": "Over/Under 0.5 Goals",
+            "marketType": "OVER_UNDER_05",
+            "runners": [
+                {
+                    "selectionId": 5851482,
+                    "runnerName": "Under 0.5 Goals",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 13.0,
+                                "size": 19.03
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 20.0,
+                                "size": 18.03
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35323674",
+            "eventName": "Palermo v Mantova",
+            "openDate": "2026-03-04T19:00:00.000Z",
+            "competitionId": "12199689",
+            "competitionName": "Italian Serie B",
+            "marketId": "1.254679481",
+            "marketName": "Over/Under 5.5 Goals",
+            "marketType": "OVER_UNDER_55",
+            "runners": [
+                {
+                    "selectionId": 1485568,
+                    "runnerName": "Over 5.5 Goals",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 13.0,
+                                "size": 19.03
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 19.5,
+                                "size": 17.53
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35323674",
+            "eventName": "Palermo v Mantova",
+            "openDate": "2026-03-04T19:00:00.000Z",
+            "competitionId": "12199689",
+            "competitionName": "Italian Serie B",
+            "marketId": "1.254679489",
+            "marketName": "Palermo +1",
+            "marketType": "TEAM_A_1",
+            "runners": [
+                {
+                    "selectionId": 7251642,
+                    "runnerName": "Mantova -1",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 18.5,
+                                "size": 13.01
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 28.0,
+                                "size": 13.01
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "eventId": "35323675",
+            "eventName": "Carrarese v Catanzaro",
+            "openDate": "2026-03-04T18:00:00.000Z",
+            "competitionId": "12199689",
+            "competitionName": "Italian Serie B",
+            "marketId": "1.254676624",
+            "marketName": "Over/Under 0.5 Goals",
+            "marketType": "OVER_UNDER_05",
+            "runners": [
+                {
+                    "selectionId": 5851482,
+                    "runnerName": "Under 0.5 Goals",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 10.0,
+                                "size": 15.0
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 13.0,
+                                "size": 28.01
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "eventId": "35296059",
+            "eventName": "Cagliari v Como",
+            "openDate": "2026-03-07T14:00:00.000Z",
+            "competitionId": "81",
+            "competitionName": "Italian Serie A",
+            "marketId": "1.254639731",
+            "marketName": "Over/Under 0.5 Goals",
+            "marketType": "OVER_UNDER_05",
+            "runners": [
+                {
+                    "selectionId": 5851482,
+                    "runnerName": "Under 0.5 Goals",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 12.5,
+                                "size": 47.46
+                            },
+                            {
+                                "price": 12.0,
+                                "size": 49.34
+                            },
+                            {
+                                "price": 11.0,
+                                "size": 12.3
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 15.0,
+                                "size": 159.04
+                            },
+                            {
+                                "price": 15.5,
+                                "size": 398.07
+                            },
+                            {
+                                "price": 18.0,
+                                "size": 202.16
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35296059",
+            "eventName": "Cagliari v Como",
+            "openDate": "2026-03-07T14:00:00.000Z",
+            "competitionId": "81",
+            "competitionName": "Italian Serie A",
+            "marketId": "1.254639744",
+            "marketName": "Como +1",
+            "marketType": "TEAM_B_1",
+            "runners": [
+                {
+                    "selectionId": 6747194,
+                    "runnerName": "Cagliari -1",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 17.5,
+                                "size": 14.0
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 23.0,
+                                "size": 45.5
+                            },
+                            {
+                                "price": 24.0,
+                                "size": 3.5
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "eventId": "35320632",
+            "eventName": "Venezia v Calcio Avellino SSD",
+            "openDate": "2026-03-03T19:00:00.000Z",
+            "competitionId": "12199689",
+            "competitionName": "Italian Serie B",
+            "marketId": "1.254630701",
+            "marketName": "Match Odds",
+            "marketType": "MATCH_ODDS",
+            "runners": [
+                {
+                    "selectionId": 20530702,
+                    "runnerName": "Avellino",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 9.4,
+                                "size": 27.5
+                            },
+                            {
+                                "price": 9.0,
+                                "size": 27.0
+                            },
+                            {
+                                "price": 8.8,
+                                "size": 18.0
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 11.0,
+                                "size": 38.0
+                            },
+                            {
+                                "price": 13.0,
+                                "size": 25.86
+                            },
+                            {
+                                "price": 13.5,
+                                "size": 22.0
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35320632",
+            "eventName": "Venezia v Calcio Avellino SSD",
+            "openDate": "2026-03-03T19:00:00.000Z",
+            "competitionId": "12199689",
+            "competitionName": "Italian Serie B",
+            "marketId": "1.254630703",
+            "marketName": "Over/Under 0.5 Goals",
+            "marketType": "OVER_UNDER_05",
+            "runners": [
+                {
+                    "selectionId": 5851482,
+                    "runnerName": "Under 0.5 Goals",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 17.0,
+                                "size": 16.87
+                            },
+                            {
+                                "price": 15.0,
+                                "size": 54.33
+                            },
+                            {
+                                "price": 1.3,
+                                "size": 7.78
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 21.0,
+                                "size": 150.66
+                            },
+                            {
+                                "price": 22.0,
+                                "size": 58.5
+                            },
+                            {
+                                "price": 26.0,
+                                "size": 207.4
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35320632",
+            "eventName": "Venezia v Calcio Avellino SSD",
+            "openDate": "2026-03-03T19:00:00.000Z",
+            "competitionId": "12199689",
+            "competitionName": "Italian Serie B",
+            "marketId": "1.254630707",
+            "marketName": "Over/Under 5.5 Goals",
+            "marketType": "OVER_UNDER_55",
+            "runners": [
+                {
+                    "selectionId": 1485568,
+                    "runnerName": "Over 5.5 Goals",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 13.5,
+                                "size": 18.5
+                            },
+                            {
+                                "price": 12.0,
+                                "size": 25.25
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 15.5,
+                                "size": 29.0
+                            },
+                            {
+                                "price": 18.0,
+                                "size": 72.17
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35320632",
+            "eventName": "Venezia v Calcio Avellino SSD",
+            "openDate": "2026-03-03T19:00:00.000Z",
+            "competitionId": "12199689",
+            "competitionName": "Italian Serie B",
+            "marketId": "1.254630715",
+            "marketName": "Venezia +1",
+            "marketType": "TEAM_A_1",
+            "runners": [
+                {
+                    "selectionId": 20530709,
+                    "runnerName": "Calcio Avellino SSD -1",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 32.0,
+                                "size": 7.5
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 48.0,
+                                "size": 25.01
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                },
+                {
+                    "selectionId": 151478,
+                    "runnerName": "Draw",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 11.0,
+                                "size": 23.01
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 16.5,
+                                "size": 75.52
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        }
+    ],
+    [],
+    [
+        {
+            "eventId": "35295984",
+            "eventName": "Atalanta v Udinese",
+            "openDate": "2026-03-07T17:00:00.000Z",
+            "competitionId": "81",
+            "competitionName": "Italian Serie A",
+            "marketId": "1.254639519",
+            "marketName": "Over/Under 0.5 Goals",
+            "marketType": "OVER_UNDER_05",
+            "runners": [
+                {
+                    "selectionId": 5851482,
+                    "runnerName": "Under 0.5 Goals",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 13.5,
+                                "size": 57.05
+                            },
+                            {
+                                "price": 9.6,
+                                "size": 30.83
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 16.0,
+                                "size": 34.01
+                            },
+                            {
+                                "price": 16.5,
+                                "size": 16.0
+                            },
+                            {
+                                "price": 18.0,
+                                "size": 418.14
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35295984",
+            "eventName": "Atalanta v Udinese",
+            "openDate": "2026-03-07T17:00:00.000Z",
+            "competitionId": "81",
+            "competitionName": "Italian Serie A",
+            "marketId": "1.254639523",
+            "marketName": "Over/Under 5.5 Goals",
+            "marketType": "OVER_UNDER_55",
+            "runners": [
+                {
+                    "selectionId": 1485568,
+                    "runnerName": "Over 5.5 Goals",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 16.5,
+                                "size": 15.0
+                            },
+                            {
+                                "price": 15.5,
+                                "size": 17.53
+                            },
+                            {
+                                "price": 10.0,
+                                "size": 29.04
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 20.0,
+                                "size": 13.5
+                            },
+                            {
+                                "price": 21.0,
+                                "size": 112.23
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35295984",
+            "eventName": "Atalanta v Udinese",
+            "openDate": "2026-03-07T17:00:00.000Z",
+            "competitionId": "81",
+            "competitionName": "Italian Serie A",
+            "marketId": "1.254639531",
+            "marketName": "Atalanta +1",
+            "marketType": "TEAM_A_1",
+            "runners": [
+                {
+                    "selectionId": 6688908,
+                    "runnerName": "Udinese -1",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 10.5,
+                                "size": 2.5
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 30.0,
+                                "size": 65.52
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "eventId": "35296048",
+            "eventName": "Juventus v Pisa",
+            "openDate": "2026-03-07T19:45:00.000Z",
+            "competitionId": "81",
+            "competitionName": "Italian Serie A",
+            "marketId": "1.254640861",
+            "marketName": "Match Odds",
+            "marketType": "MATCH_ODDS",
+            "runners": [
+                {
+                    "selectionId": 501200,
+                    "runnerName": "Pisa",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 14.0,
+                                "size": 15.68
+                            },
+                            {
+                                "price": 13.5,
+                                "size": 166.0
+                            },
+                            {
+                                "price": 13.0,
+                                "size": 234.67
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 15.0,
+                                "size": 395.0
+                            },
+                            {
+                                "price": 15.5,
+                                "size": 204.0
+                            },
+                            {
+                                "price": 16.0,
+                                "size": 159.0
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35296048",
+            "eventName": "Juventus v Pisa",
+            "openDate": "2026-03-07T19:45:00.000Z",
+            "competitionId": "81",
+            "competitionName": "Italian Serie A",
+            "marketId": "1.254640863",
+            "marketName": "Over/Under 0.5 Goals",
+            "marketType": "OVER_UNDER_05",
+            "runners": [
+                {
+                    "selectionId": 5851482,
+                    "runnerName": "Under 0.5 Goals",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 17.5,
+                                "size": 19.51
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 26.0,
+                                "size": 261.79
+                            },
+                            {
+                                "price": 36.0,
+                                "size": 226.16
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35296048",
+            "eventName": "Juventus v Pisa",
+            "openDate": "2026-03-07T19:45:00.000Z",
+            "competitionId": "81",
+            "competitionName": "Italian Serie A",
+            "marketId": "1.254640867",
+            "marketName": "Over/Under 5.5 Goals",
+            "marketType": "OVER_UNDER_55",
+            "runners": [
+                {
+                    "selectionId": 1485568,
+                    "runnerName": "Over 5.5 Goals",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 11.0,
+                                "size": 45.91
+                            },
+                            {
+                                "price": 10.5,
+                                "size": 24.36
+                            },
+                            {
+                                "price": 10.0,
+                                "size": 25.93
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 13.0,
+                                "size": 49.01
+                            },
+                            {
+                                "price": 13.5,
+                                "size": 61.78
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35296048",
+            "eventName": "Juventus v Pisa",
+            "openDate": "2026-03-07T19:45:00.000Z",
+            "competitionId": "81",
+            "competitionName": "Italian Serie A",
+            "marketId": "1.254640875",
+            "marketName": "Juventus +1",
+            "marketType": "TEAM_A_1",
+            "runners": [
+                {
+                    "selectionId": 6752024,
+                    "runnerName": "Pisa -1",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 50.0,
+                                "size": 4.51
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 85.0,
+                                "size": 22.02
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                },
+                {
+                    "selectionId": 151478,
+                    "runnerName": "Draw",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 15.0,
+                                "size": 16.52
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 24.0,
+                                "size": 80.09
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "eventId": "35296049",
+            "eventName": "Bologna v Verona",
+            "openDate": "2026-03-08T14:00:00.000Z",
+            "competitionId": "81",
+            "competitionName": "Italian Serie A",
+            "marketId": "1.254694225",
+            "marketName": "Over/Under 0.5 Goals",
+            "marketType": "OVER_UNDER_05",
+            "runners": [
+                {
+                    "selectionId": 5851482,
+                    "runnerName": "Under 0.5 Goals",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 12.5,
+                                "size": 20.01
+                            },
+                            {
+                                "price": 12.0,
+                                "size": 87.29
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 14.5,
+                                "size": 134.55
+                            },
+                            {
+                                "price": 15.5,
+                                "size": 385.02
+                            },
+                            {
+                                "price": 18.0,
+                                "size": 254.67
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35296049",
+            "eventName": "Bologna v Verona",
+            "openDate": "2026-03-08T14:00:00.000Z",
+            "competitionId": "81",
+            "competitionName": "Italian Serie A",
+            "marketId": "1.254694327",
+            "marketName": "Bologna +1",
+            "marketType": "TEAM_A_1",
+            "runners": [
+                {
+                    "selectionId": 6763109,
+                    "runnerName": "Verona -1",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 20.0,
+                                "size": 12.0
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 32.0,
+                                "size": 139.04
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "eventId": "35295985",
+            "eventName": "Fiorentina v Parma",
+            "openDate": "2026-03-08T14:00:00.000Z",
+            "competitionId": "81",
+            "competitionName": "Italian Serie A",
+            "marketId": "1.254693468",
+            "marketName": "Over/Under 0.5 Goals",
+            "marketType": "OVER_UNDER_05",
+            "runners": [
+                {
+                    "selectionId": 5851482,
+                    "runnerName": "Under 0.5 Goals",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 12.5,
+                                "size": 20.01
+                            },
+                            {
+                                "price": 12.0,
+                                "size": 79.51
+                            },
+                            {
+                                "price": 11.0,
+                                "size": 22.11
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 15.0,
+                                "size": 62.02
+                            },
+                            {
+                                "price": 15.5,
+                                "size": 315.91
+                            },
+                            {
+                                "price": 18.0,
+                                "size": 254.64
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35295985",
+            "eventName": "Fiorentina v Parma",
+            "openDate": "2026-03-08T14:00:00.000Z",
+            "competitionId": "81",
+            "competitionName": "Italian Serie A",
+            "marketId": "1.254693472",
+            "marketName": "Over/Under 5.5 Goals",
+            "marketType": "OVER_UNDER_55",
+            "runners": [
+                {
+                    "selectionId": 1485568,
+                    "runnerName": "Over 5.5 Goals",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 17.5,
+                                "size": 14.0
+                            },
+                            {
+                                "price": 16.5,
+                                "size": 21.41
+                            },
+                            {
+                                "price": 15.0,
+                                "size": 39.78
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 21.0,
+                                "size": 65.85
+                            },
+                            {
+                                "price": 26.0,
+                                "size": 96.81
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35295985",
+            "eventName": "Fiorentina v Parma",
+            "openDate": "2026-03-08T14:00:00.000Z",
+            "competitionId": "81",
+            "competitionName": "Italian Serie A",
+            "marketId": "1.254693480",
+            "marketName": "Fiorentina +1",
+            "marketType": "TEAM_A_1",
+            "runners": [
+                {
+                    "selectionId": 6588899,
+                    "runnerName": "Parma -1",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 17.0,
+                                "size": 19.69
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 19.5,
+                                "size": 45.51
+                            },
+                            {
+                                "price": 21.0,
+                                "size": 4.0
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "eventId": "35296054",
+            "eventName": "Napoli v Torino",
+            "openDate": "2026-03-06T19:45:00.000Z",
+            "competitionId": "81",
+            "competitionName": "Italian Serie A",
+            "marketId": "1.254587632",
+            "marketName": "Over/Under 0.5 Goals",
+            "marketType": "OVER_UNDER_05",
+            "runners": [
+                {
+                    "selectionId": 5851482,
+                    "runnerName": "Under 0.5 Goals",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 11.5,
+                                "size": 22.01
+                            },
+                            {
+                                "price": 11.0,
+                                "size": 87.49
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 13.5,
+                                "size": 305.05
+                            },
+                            {
+                                "price": 14.0,
+                                "size": 127.53
+                            },
+                            {
+                                "price": 15.5,
+                                "size": 369.76
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35296054",
+            "eventName": "Napoli v Torino",
+            "openDate": "2026-03-06T19:45:00.000Z",
+            "competitionId": "81",
+            "competitionName": "Italian Serie A",
+            "marketId": "1.254587640",
+            "marketName": "Half Time Score",
+            "marketType": "HALF_TIME_SCORE",
+            "runners": [
+                {
+                    "selectionId": 7,
+                    "runnerName": "2 - 2",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 25.0,
+                                "size": 2.5
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 240.0,
+                                "size": 29.01
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                },
+                {
+                    "selectionId": 6,
+                    "runnerName": "2 - 1",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 21.0,
+                                "size": 3.0
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 36.0,
+                                "size": 57.01
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                },
+                {
+                    "selectionId": 9,
+                    "runnerName": "0 - 2",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 25.0,
+                                "size": 2.5
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 110.0,
+                                "size": 57.52
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                },
+                {
+                    "selectionId": 8,
+                    "runnerName": "1 - 2",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 25.0,
+                                "size": 2.5
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 110.0,
+                                "size": 57.01
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                },
+                {
+                    "selectionId": 4506345,
+                    "runnerName": "Any Unquoted ",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 15.0,
+                                "size": 4.0
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 26.0,
+                                "size": 57.01
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35296054",
+            "eventName": "Napoli v Torino",
+            "openDate": "2026-03-06T19:45:00.000Z",
+            "competitionId": "81",
+            "competitionName": "Italian Serie A",
+            "marketId": "1.254587644",
+            "marketName": "Napoli +1",
+            "marketType": "TEAM_A_1",
+            "runners": [
+                {
+                    "selectionId": 6655421,
+                    "runnerName": "Torino -1",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 27.0,
+                                "size": 9.0
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 46.0,
+                                "size": 105.5
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "eventId": "35320660",
+            "eventName": "Juve Stabia v Sampdoria",
+            "openDate": "2026-03-04T19:00:00.000Z",
+            "competitionId": "12199689",
+            "competitionName": "Italian Serie B",
+            "marketId": "1.254679442",
+            "marketName": "Over/Under 4.5 Goals",
+            "marketType": "OVER_UNDER_45",
+            "runners": [
+                {
+                    "selectionId": 1222346,
+                    "runnerName": "Over 4.5 Goals",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 13.5,
+                                "size": 18.33
+                            },
+                            {
+                                "price": 11.5,
+                                "size": 22.01
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 18.0,
+                                "size": 196.65
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "eventId": "35296052",
+            "eventName": "Genoa v Roma",
+            "openDate": "2026-03-08T17:00:00.000Z",
+            "competitionId": "81",
+            "competitionName": "Italian Serie A",
+            "marketId": "1.254694169",
+            "marketName": "Over/Under 4.5 Goals",
+            "marketType": "OVER_UNDER_45",
+            "runners": [
+                {
+                    "selectionId": 1222346,
+                    "runnerName": "Over 4.5 Goals",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 12.0,
+                                "size": 41.82
+                            },
+                            {
+                                "price": 11.5,
+                                "size": 33.97
+                            },
+                            {
+                                "price": 11.0,
+                                "size": 35.77
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 14.0,
+                                "size": 97.04
+                            },
+                            {
+                                "price": 15.5,
+                                "size": 174.15
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35296052",
+            "eventName": "Genoa v Roma",
+            "openDate": "2026-03-08T17:00:00.000Z",
+            "competitionId": "81",
+            "competitionName": "Italian Serie A",
+            "marketId": "1.254694175",
+            "marketName": "Roma +1",
+            "marketType": "TEAM_B_1",
+            "runners": [
+                {
+                    "selectionId": 6654189,
+                    "runnerName": "Genoa -1",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 16.0,
+                                "size": 15.5
+                            },
+                            {
+                                "price": 14.5,
+                                "size": 6.71
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 22.0,
+                                "size": 186.5
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "eventId": "35296053",
+            "eventName": "AC Milan v Inter",
+            "openDate": "2026-03-08T19:45:00.000Z",
+            "competitionId": "81",
+            "competitionName": "Italian Serie A",
+            "marketId": "1.254693657",
+            "marketName": "Over/Under 0.5 Goals",
+            "marketType": "OVER_UNDER_05",
+            "runners": [
+                {
+                    "selectionId": 5851482,
+                    "runnerName": "Under 0.5 Goals",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 11.5,
+                                "size": 22.01
+                            },
+                            {
+                                "price": 11.0,
+                                "size": 75.63
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 13.0,
+                                "size": 72.03
+                            },
+                            {
+                                "price": 13.5,
+                                "size": 405.82
+                            },
+                            {
+                                "price": 15.5,
+                                "size": 299.94
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35296053",
+            "eventName": "AC Milan v Inter",
+            "openDate": "2026-03-08T19:45:00.000Z",
+            "competitionId": "81",
+            "competitionName": "Italian Serie A",
+            "marketId": "1.254693661",
+            "marketName": "Over/Under 5.5 Goals",
+            "marketType": "OVER_UNDER_55",
+            "runners": [
+                {
+                    "selectionId": 1485568,
+                    "runnerName": "Over 5.5 Goals",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 16.0,
+                                "size": 15.5
+                            },
+                            {
+                                "price": 15.0,
+                                "size": 16.37
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 26.0,
+                                "size": 150.93
+                            },
+                            {
+                                "price": 27.0,
+                                "size": 147.0
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35296053",
+            "eventName": "AC Milan v Inter",
+            "openDate": "2026-03-08T19:45:00.000Z",
+            "competitionId": "81",
+            "competitionName": "Italian Serie A",
+            "marketId": "1.254693670",
+            "marketName": "Inter +1",
+            "marketType": "TEAM_B_1",
+            "runners": [
+                {
+                    "selectionId": 6611390,
+                    "runnerName": "AC Milan -1",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 9.4,
+                                "size": 35.21
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 10.5,
+                                "size": 86.02
+                            },
+                            {
+                                "price": 11.0,
+                                "size": 6.5
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "eventId": "241361",
+            "eventName": "Italian Serie A",
+            "openDate": "2020-09-28T13:21:00.000Z",
+            "competitionId": "81",
+            "competitionName": "Italian Serie A",
+            "marketId": "1.246421010",
+            "marketName": "Winner",
+            "marketType": "WINNER",
+            "runners": [
+                {
+                    "selectionId": 676464,
+                    "runnerName": "Napoli",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 60.0,
+                                "size": 52.01
+                            },
+                            {
+                                "price": 3.5,
+                                "size": 20.03
+                            },
+                            {
+                                "price": 2.5,
+                                "size": 50.01
+                            }
+                        ],
+                        "availableToLay": [],
+                        "tradedVolume": []
+                    }
+                },
+                {
+                    "selectionId": 127991,
+                    "runnerName": "AC Milan",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 18.0,
+                                "size": 12.0
+                            },
+                            {
+                                "price": 16.0,
+                                "size": 12.96
+                            },
+                            {
+                                "price": 5.2,
+                                "size": 55.01
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 24.0,
+                                "size": 27.59
+                            },
+                            {
+                                "price": 1000.0,
+                                "size": 7.85
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                },
+                {
+                    "selectionId": 56967,
+                    "runnerName": "Roma",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 260.0,
+                                "size": 14.5
+                            },
+                            {
+                                "price": 2.0,
+                                "size": 759.2
+                            }
+                        ],
+                        "availableToLay": [],
+                        "tradedVolume": []
+                    }
+                },
+                {
+                    "selectionId": 56966,
+                    "runnerName": "Lazio",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 230.0,
+                                "size": 14.0
+                            },
+                            {
+                                "price": 2.0,
+                                "size": 750.2
+                            }
+                        ],
+                        "availableToLay": [],
+                        "tradedVolume": []
+                    }
+                },
+                {
+                    "selectionId": 199545,
+                    "runnerName": "Bologna",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 130.0,
+                                "size": 12.0
+                            },
+                            {
+                                "price": 2.0,
+                                "size": 750.2
+                            }
+                        ],
+                        "availableToLay": [],
+                        "tradedVolume": []
+                    }
+                },
+                {
+                    "selectionId": 2013140,
+                    "runnerName": "Sassuolo",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 1000.0,
+                                "size": 5.0
+                            }
+                        ],
+                        "availableToLay": [],
+                        "tradedVolume": []
+                    }
+                },
+                {
+                    "selectionId": 44503,
+                    "runnerName": "Torino",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 1000.0,
+                                "size": 5.0
+                            }
+                        ],
+                        "availableToLay": [],
+                        "tradedVolume": []
+                    }
+                },
+                {
+                    "selectionId": 215821,
+                    "runnerName": "Udinese",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 1000.0,
+                                "size": 7.0
+                            }
+                        ],
+                        "availableToLay": [],
+                        "tradedVolume": []
+                    }
+                },
+                {
+                    "selectionId": 924267,
+                    "runnerName": "Cremonese",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 1000.0,
+                                "size": 5.0
+                            }
+                        ],
+                        "availableToLay": [],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "eventId": "35320073",
+            "eventName": "Reggiana v Sudtirol",
+            "openDate": "2026-03-03T19:00:00.000Z",
+            "competitionId": "12199689",
+            "competitionName": "Italian Serie B",
+            "marketId": "1.254627792",
+            "marketName": "First Half Goals 2.5",
+            "marketType": "FIRST_HALF_GOALS_25",
+            "runners": [
+                {
+                    "selectionId": 47973,
+                    "runnerName": "Over 2.5 Goals",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 11.0,
+                                "size": 5.5
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 17.0,
+                                "size": 48.52
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35320073",
+            "eventName": "Reggiana v Sudtirol",
+            "openDate": "2026-03-03T19:00:00.000Z",
+            "competitionId": "12199689",
+            "competitionName": "Italian Serie B",
+            "marketId": "1.254627803",
+            "marketName": "Over/Under 4.5 Goals",
+            "marketType": "OVER_UNDER_45",
+            "runners": [
+                {
+                    "selectionId": 1222346,
+                    "runnerName": "Over 4.5 Goals",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 13.5,
+                                "size": 61.9
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 17.0,
+                                "size": 16.0
+                            },
+                            {
+                                "price": 18.0,
+                                "size": 61.61
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35320073",
+            "eventName": "Reggiana v Sudtirol",
+            "openDate": "2026-03-03T19:00:00.000Z",
+            "competitionId": "12199689",
+            "competitionName": "Italian Serie B",
+            "marketId": "1.254627804",
+            "marketName": "Half Time Score",
+            "marketType": "HALF_TIME_SCORE",
+            "runners": [
+                {
+                    "selectionId": 3,
+                    "runnerName": "1 - 1",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 9.6,
+                                "size": 12.5
+                            },
+                            {
+                                "price": 9.0,
+                                "size": 14.0
+                            },
+                            {
+                                "price": 4.7,
+                                "size": 33.52
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 12.5,
+                                "size": 57.5
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                },
+                {
+                    "selectionId": 5,
+                    "runnerName": "2 - 0",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 21.0,
+                                "size": 11.5
+                            },
+                            {
+                                "price": 6.2,
+                                "size": 25.41
+                            },
+                            {
+                                "price": 5.0,
+                                "size": 28.06
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 34.0,
+                                "size": 24.5
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                },
+                {
+                    "selectionId": 9,
+                    "runnerName": "0 - 2",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 15.5,
+                                "size": 12.0
+                            },
+                            {
+                                "price": 6.0,
+                                "size": 29.26
+                            },
+                            {
+                                "price": 4.9,
+                                "size": 28.63
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 28.0,
+                                "size": 29.0
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35320073",
+            "eventName": "Reggiana v Sudtirol",
+            "openDate": "2026-03-03T19:00:00.000Z",
+            "competitionId": "12199689",
+            "competitionName": "Italian Serie B",
+            "marketId": "1.254627807",
+            "marketName": "Half Time/Full Time",
+            "marketType": "HALF_TIME_FULL_TIME",
+            "runners": [
+                {
+                    "selectionId": 1340370,
+                    "runnerName": "Home/Draw",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 15.5,
+                                "size": 12.5
+                            },
+                            {
+                                "price": 7.8,
+                                "size": 20.95
+                            },
+                            {
+                                "price": 7.2,
+                                "size": 18.61
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 22.0,
+                                "size": 22.0
+                            },
+                            {
+                                "price": 23.0,
+                                "size": 38.5
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                },
+                {
+                    "selectionId": 1340372,
+                    "runnerName": "Home/Away",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 10.0,
+                                "size": 18.34
+                            },
+                            {
+                                "price": 9.2,
+                                "size": 12.53
+                            },
+                            {
+                                "price": 8.0,
+                                "size": 12.29
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 75.0,
+                                "size": 13.5
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                },
+                {
+                    "selectionId": 1340376,
+                    "runnerName": "Away/Home",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 10.5,
+                                "size": 16.79
+                            },
+                            {
+                                "price": 9.4,
+                                "size": 13.11
+                            },
+                            {
+                                "price": 8.2,
+                                "size": 12.0
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 80.0,
+                                "size": 16.5
+                            },
+                            {
+                                "price": 90.0,
+                                "size": 14.0
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                },
+                {
+                    "selectionId": 1340377,
+                    "runnerName": "Away/Draw",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 16.5,
+                                "size": 12.5
+                            },
+                            {
+                                "price": 7.6,
+                                "size": 22.74
+                            },
+                            {
+                                "price": 7.0,
+                                "size": 17.64
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 21.0,
+                                "size": 14.0
+                            },
+                            {
+                                "price": 23.0,
+                                "size": 32.5
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "eventId": "35319081",
+            "eventName": "Entella v Modena",
+            "openDate": "2026-03-03T19:00:00.000Z",
+            "competitionId": "12199689",
+            "competitionName": "Italian Serie B",
+            "marketId": "1.254627754",
+            "marketName": "Over/Under 0.5 Goals",
+            "marketType": "OVER_UNDER_05",
+            "runners": [
+                {
+                    "selectionId": 5851482,
+                    "runnerName": "Under 0.5 Goals",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 9.8,
+                                "size": 14.5
+                            },
+                            {
+                                "price": 9.2,
+                                "size": 38.23
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 11.5,
+                                "size": 25.01
+                            },
+                            {
+                                "price": 12.5,
+                                "size": 35.2
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35319081",
+            "eventName": "Entella v Modena",
+            "openDate": "2026-03-03T19:00:00.000Z",
+            "competitionId": "12199689",
+            "competitionName": "Italian Serie B",
+            "marketId": "1.254627761",
+            "marketName": "Over/Under 4.5 Goals",
+            "marketType": "OVER_UNDER_45",
+            "runners": [
+                {
+                    "selectionId": 1222346,
+                    "runnerName": "Over 4.5 Goals",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 9.8,
+                                "size": 23.08
+                            },
+                            {
+                                "price": 9.2,
+                                "size": 172.85
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 12.5,
+                                "size": 59.69
+                            },
+                            {
+                                "price": 13.0,
+                                "size": 47.51
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35319081",
+            "eventName": "Entella v Modena",
+            "openDate": "2026-03-03T19:00:00.000Z",
+            "competitionId": "12199689",
+            "competitionName": "Italian Serie B",
+            "marketId": "1.254627762",
+            "marketName": "Half Time Score",
+            "marketType": "HALF_TIME_SCORE",
+            "runners": [
+                {
+                    "selectionId": 5,
+                    "runnerName": "2 - 0",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 17.5,
+                                "size": 12.0
+                            },
+                            {
+                                "price": 6.2,
+                                "size": 28.29
+                            },
+                            {
+                                "price": 5.1,
+                                "size": 27.62
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 40.0,
+                                "size": 16.5
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                },
+                {
+                    "selectionId": 9,
+                    "runnerName": "0 - 2",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 12.0,
+                                "size": 15.0
+                            },
+                            {
+                                "price": 5.4,
+                                "size": 36.48
+                            },
+                            {
+                                "price": 4.5,
+                                "size": 31.31
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 20.0,
+                                "size": 32.5
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                },
+                {
+                    "selectionId": 8,
+                    "runnerName": "1 - 2",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 17.5,
+                                "size": 12.0
+                            },
+                            {
+                                "price": 6.2,
+                                "size": 28.29
+                            },
+                            {
+                                "price": 5.1,
+                                "size": 27.62
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 40.0,
+                                "size": 16.0
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35319081",
+            "eventName": "Entella v Modena",
+            "openDate": "2026-03-03T19:00:00.000Z",
+            "competitionId": "12199689",
+            "competitionName": "Italian Serie B",
+            "marketId": "1.254627765",
+            "marketName": "Half Time/Full Time",
+            "marketType": "HALF_TIME_FULL_TIME",
+            "runners": [
+                {
+                    "selectionId": 1340370,
+                    "runnerName": "Home/Draw",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 12.5,
+                                "size": 16.0
+                            },
+                            {
+                                "price": 11.5,
+                                "size": 12.0
+                            },
+                            {
+                                "price": 2.08,
+                                "size": 64.62
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 50.0,
+                                "size": 18.0
+                            },
+                            {
+                                "price": 60.0,
+                                "size": 19.0
+                            },
+                            {
+                                "price": 70.0,
+                                "size": 19.0
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                },
+                {
+                    "selectionId": 1340377,
+                    "runnerName": "Away/Draw",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 13.0,
+                                "size": 15.0
+                            },
+                            {
+                                "price": 12.0,
+                                "size": 15.0
+                            },
+                            {
+                                "price": 2.06,
+                                "size": 65.24
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 40.0,
+                                "size": 18.0
+                            },
+                            {
+                                "price": 44.0,
+                                "size": 19.0
+                            },
+                            {
+                                "price": 48.0,
+                                "size": 19.0
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35319081",
+            "eventName": "Entella v Modena",
+            "openDate": "2026-03-03T19:00:00.000Z",
+            "competitionId": "12199689",
+            "competitionName": "Italian Serie B",
+            "marketId": "1.254627767",
+            "marketName": "Modena +1",
+            "marketType": "TEAM_B_1",
+            "runners": [
+                {
+                    "selectionId": 6789471,
+                    "runnerName": "Entella -1",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 9.4,
+                                "size": 27.5
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 14.5,
+                                "size": 42.5
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "eventId": "35296047",
+            "eventName": "Lecce v US Cremonese",
+            "openDate": "2026-03-08T11:30:00.000Z",
+            "competitionId": "81",
+            "competitionName": "Italian Serie A",
+            "marketId": "1.254693790",
+            "marketName": "Over/Under 4.5 Goals",
+            "marketType": "OVER_UNDER_45",
+            "runners": [
+                {
+                    "selectionId": 1222346,
+                    "runnerName": "Over 4.5 Goals",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 14.0,
+                                "size": 47.01
+                            },
+                            {
+                                "price": 13.5,
+                                "size": 48.72
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 16.0,
+                                "size": 34.0
+                            },
+                            {
+                                "price": 17.0,
+                                "size": 24.0
+                            },
+                            {
+                                "price": 18.0,
+                                "size": 103.57
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35296047",
+            "eventName": "Lecce v US Cremonese",
+            "openDate": "2026-03-08T11:30:00.000Z",
+            "competitionId": "81",
+            "competitionName": "Italian Serie A",
+            "marketId": "1.254693795",
+            "marketName": "Lecce +1",
+            "marketType": "TEAM_A_1",
+            "runners": [
+                {
+                    "selectionId": 22835444,
+                    "runnerName": "US Cremonese -1",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 13.5,
+                                "size": 18.51
+                            },
+                            {
+                                "price": 13.0,
+                                "size": 7.88
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 18.5,
+                                "size": 130.56
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "eventId": "35319084",
+            "eventName": "Cesena v AC Monza",
+            "openDate": "2026-03-03T19:00:00.000Z",
+            "competitionId": "12199689",
+            "competitionName": "Italian Serie B",
+            "marketId": "1.254627817",
+            "marketName": "Over/Under 0.5 Goals",
+            "marketType": "OVER_UNDER_05",
+            "runners": [
+                {
+                    "selectionId": 5851482,
+                    "runnerName": "Under 0.5 Goals",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 11.0,
+                                "size": 33.11
+                            },
+                            {
+                                "price": 3.6,
+                                "size": 10.9
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 13.5,
+                                "size": 24.75
+                            },
+                            {
+                                "price": 15.5,
+                                "size": 117.06
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35319084",
+            "eventName": "Cesena v AC Monza",
+            "openDate": "2026-03-03T19:00:00.000Z",
+            "competitionId": "12199689",
+            "competitionName": "Italian Serie B",
+            "marketId": "1.254627825",
+            "marketName": "Half Time Score",
+            "marketType": "HALF_TIME_SCORE",
+            "runners": [
+                {
+                    "selectionId": 9,
+                    "runnerName": "0 - 2",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 14.0,
+                                "size": 12.0
+                            },
+                            {
+                                "price": 4.7,
+                                "size": 44.81
+                            },
+                            {
+                                "price": 4.0,
+                                "size": 37.05
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 21.0,
+                                "size": 56.5
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "eventId": "35323398",
+            "eventName": "Frosinone v Pescara",
+            "openDate": "2026-03-04T19:00:00.000Z",
+            "competitionId": "12199689",
+            "competitionName": "Italian Serie B",
+            "marketId": "1.254679458",
+            "marketName": "Over/Under 6.5 Goals",
+            "marketType": "OVER_UNDER_65",
+            "runners": [
+                {
+                    "selectionId": 2542449,
+                    "runnerName": "Over 6.5 Goals",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 15.5,
+                                "size": 16.01
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 22.0,
+                                "size": 10.5
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        },
+        {
+            "eventId": "35323398",
+            "eventName": "Frosinone v Pescara",
+            "openDate": "2026-03-04T19:00:00.000Z",
+            "competitionId": "12199689",
+            "competitionName": "Italian Serie B",
+            "marketId": "1.254679468",
+            "marketName": "Frosinone +1",
+            "marketType": "TEAM_A_1",
+            "runners": [
+                {
+                    "selectionId": 6680897,
+                    "runnerName": "Pescara -1",
+                    "handicap": 0.0,
+                    "status": "ACTIVE",
+                    "ex": {
+                        "availableToBack": [
+                            {
+                                "price": 12.0,
+                                "size": 21.03
+                            }
+                        ],
+                        "availableToLay": [
+                            {
+                                "price": 18.0,
+                                "size": 20.53
+                            }
+                        ],
+                        "tradedVolume": []
+                    }
+                }
+            ]
+        }
+    ]
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "marketType": "WINNER",
+        "marketCount": 7
+    },
+    {
+        "marketType": "FIRST_HALF_GOALS_15",
+        "marketCount": 422
+    },
+    {
+        "marketType": "OVER_UNDER_05",
+        "marketCount": 421
+    },
+    {
+        "marketType": "OVER_UNDER_65",
+        "marketCount": 427
+    },
+    {
+        "marketType": "HALF_TIME",
+        "marketCount": 423
+    },
+    {
+        "marketType": "OVER_UNDER_55",
+        "marketCount": 427
+    },
+    {
+        "marketType": "CORRECT_SCORE",
+        "marketCount": 423
+    },
+    {
+        "marketType": "OVER_UNDER_25",
+        "marketCount": 427
+    },
+    {
+        "marketType": "OVER_UNDER_45",
+        "marketCount": 427
+    },
+    {
+        "marketType": "HALF_TIME_SCORE",
+        "marketCount": 419
+    },
+    {
+        "marketType": "OVER_UNDER_15",
+        "marketCount": 426
+    },
+    {
+        "marketType": "OVER_UNDER_35",
+        "marketCount": 427
+    },
+    {
+        "marketType": "HALF_TIME_FULL_TIME",
+        "marketCount": 423
+    },
+    {
+        "marketType": "TEAM_A_1",
+        "marketCount": 420
+    },
+    {
+        "marketType": "TEAM_B_1",
+        "marketCount": 420
+    },
+    {
+        "marketType": "OVER_UNDER_75",
+        "marketCount": 420
+    },
+    {
+        "marketType": "OVER_UNDER_85",
+        "marketCount": 420
+    },
+    {
+        "marketType": "DOUBLE_CHANCE",
+        "marketCount": 420
+    },
+    {
+        "marketType": "FIRST_HALF_GOALS_25",
+        "marketCount": 423
+    },
+    {
+        "marketType": "BOTH_TEAMS_TO_SCORE",
+        "marketCount": 427
+    },
+    {
+        "marketType": "MATCH_ODDS",
+        "marketCount": 625
+    },
+    {
+        "marketType": "FIRST_HALF_GOALS_05",
+        "marketCount": 420
+    },
+    {
+        "marketType": "SET_BETTING",
+        "marketCount": 164
+    },
+    {
+        "marketType": "CORRECT_SCORE_IT",
+        "marketCount": 4
+    },
+    {
+        "marketType": "TO_QUALIFY",
+        "marketCount": 24
+    }
+]
